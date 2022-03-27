@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 60599589-0599-537e-368b-223f5a9320d1
 resourcetype: Document
 title: Proposed Paper Topics on Kievan Rus
 uid: 7adc66a8-d63f-ebe4-8a01-1f27290d2410

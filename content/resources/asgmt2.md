@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 60599589-0599-537e-368b-223f5a9320d1
 resourcetype: Document
 title: Weekly response papers
 uid: bb1ae8ad-7f13-01ad-9e40-abf30ab31bed

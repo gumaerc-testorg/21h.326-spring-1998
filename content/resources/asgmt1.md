@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 60599589-0599-537e-368b-223f5a9320d1
 resourcetype: Document
 title: Research Paper in Muscovite History
 uid: 8cbad013-2cda-69cf-63db-0bae73e4e0c4

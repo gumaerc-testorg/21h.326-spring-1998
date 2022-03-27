@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 60599589-0599-537e-368b-223f5a9320d1
 resourcetype: Document
 title: 'First Essay: Analysis of Kievan Sources'
 uid: c887894d-e825-7eb3-33aa-f90ffc4ccc1a
