@@ -5,6 +5,7 @@ file: /courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Proposed Paper Topics on Kievan Rus
 uid: 7adc66a8-d63f-ebe4-8a01-1f27290d2410
 ---
 Proposed topics for an essay assignment on the decline of Kievan Rus.
-
