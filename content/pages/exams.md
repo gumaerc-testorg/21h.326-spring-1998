@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the final exam for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: be8a987c-c243-87da-7828-9bf6f5e10e51
 ---
