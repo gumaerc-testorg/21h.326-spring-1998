@@ -2,6 +2,7 @@
 content_type: resource
 description: Proposed topics for an essay assignment on the decline of Kievan Rus.
 file: /courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/7adc66a8d63febe48a011f27290d2410_asgmt3.pdf
+file_size: 42797
 file_type: application/pdf
 learning_resource_types:
 - Assignments
