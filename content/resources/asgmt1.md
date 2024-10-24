@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Research paper and presentation assignment.
-file: /courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/8cbad0132cda69cf63db0bae73e4e0c4_asgmt1.pdf
+file: /ol-ocw-studio-app/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/8cbad0132cda69cf63db0bae73e4e0c4_asgmt1.pdf
 file_size: 42779
 file_type: application/pdf
 learning_resource_types:
