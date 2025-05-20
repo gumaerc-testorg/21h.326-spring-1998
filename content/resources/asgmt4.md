@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to write an essay on the decline of Kievan Rus.
-file: /ol-ocw-studio-app/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/c887894de8257eb333aaf90ffc4ccc1a_asgmt4.pdf
+file: /courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/c887894de8257eb333aaf90ffc4ccc1a_asgmt4.pdf
 file_size: 69737
 file_type: application/pdf
 learning_resource_types:
