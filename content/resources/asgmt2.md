@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggested topics for response papers
-file: /courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/bb1ae8ad7f1301ad9e40abf30ab31bed_asgmt2.pdf
+file: /ol-ocw-studio-app/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/bb1ae8ad7f1301ad9e40abf30ab31bed_asgmt2.pdf
 file_size: 155546
 file_type: application/pdf
 learning_resource_types:
